@@ -1,5 +1,5 @@
 # 
-Certainly! Here's a brief description that you can use for your GitHub README file:
+
 
 Text Classification Project using NLTK and Scikit-Learn
 
